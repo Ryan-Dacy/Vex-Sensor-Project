@@ -1,4 +1,4 @@
-# Vex-Sensor-Project
+# Vex-Sensor-Project Overview
 A custom-built light sensor for VEX robots using an Arduino Nano.
 
 ## Overview
