@@ -16,7 +16,7 @@ This project implements a custom light sensor for VEX robots using an **Arduino 
 2. This digital value is transmitted via **UART** to the **TTL(UART) to RS-485 converter**.
 3. The **VEX Brain** receives the RS-485 signal and processes the light data.
 
-## Wiring Diagram (Please check *Circuit Schematics* folder for detailed schematics of all hardware.
+## Wiring Diagram (Please check **Circuit Schematics** folder for detailed schematics of all hardware)
 - **Arduino Nano TX → TX MAX485
 - **Arduino Nano RX ← RX on MAX485  
 - **MAX485 A & B → VEX Brain RS-485 Input**  
