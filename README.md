@@ -17,10 +17,10 @@ This project implements a custom light sensor for VEX robots using an **Arduino 
 3. The **VEX Brain** receives the RS-485 signal and processes the light data.
 
 ## Wiring Diagram (Please check **Circuit Schematics** folder for detailed schematics of all hardware)
-- **Arduino Nano TX → TX MAX485
-- **Arduino Nano RX ← RX on MAX485  
-- **MAX485 A & B → VEX Brain RS-485 Input**  
-- **Power**: The Arduino Nano is powered using a **12V to 5V step-down converter** from the VEX Brain.
+- Arduino Nano TX → TX MAX485
+- Arduino Nano RX ← RX on MAX485  
+- MAX485 A & B → VEX Brain RS-485 Input  
+- Power: The Arduino Nano is powered using a **12V to 5V step-down converter** from the VEX Brain.
 
 ## Software
 - The Arduino will continuously read light sensor values and send them over RS-485.
