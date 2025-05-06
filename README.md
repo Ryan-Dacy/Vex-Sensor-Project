@@ -1,5 +1,5 @@
 # Vex-Sensor-Project Overview
-A custom-built light sensor for VEX robots using an Arduino Nano.
+A custom-built light sensor for VEX robots using an Arduino Nano as a flexible sensor interface.
 
 ## Overview
 This project implements a custom light sensor for VEX robots using an **Arduino Nano** and an **RS-485 communication module**. The sensor reads light intensity and transmits the data to the **VEX Brain** using a **TTL to RS-485 converter**.
