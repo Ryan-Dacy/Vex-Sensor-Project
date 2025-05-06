@@ -5,3 +5,5 @@ This video demonstrates the light sensor successfully detecting white lines on t
 We mounted the phototransistor just inside the robot’s intake, so when a specific point of the intake contacts the sensor, it detects the white line and triggers the reverse action. Although this is a simple test setup, it effectively demonstrates how the sensor could be integrated into a real competition scenario.
 
 The code used for this demonstration is available in the **VexReceive** folder, and the program is called **DrivingTest**.
+
+(Please download the video in order to watch it)
